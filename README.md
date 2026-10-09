@@ -53,7 +53,7 @@ Class simulation (`python -m scripts.simulate_class`): 12 simulated students wit
 ## Quick start
 
 ```bash
-git clone https://github.com/mrugaja-0702/Mathematics-Tutor.git
+git clone https://github.com/Niladri962/Mathematics-Tutor.git
 cd Mathematics-Tutor
 pip install -r requirements.txt
 streamlit run app.py
