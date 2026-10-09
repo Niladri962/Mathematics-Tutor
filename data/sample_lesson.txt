@@ -1,0 +1,97 @@
+Class 8 Mathematics: Number Sense and Algebra Foundations
+
+Lesson transcript and notes
+
+Part 1: Adding and subtracting fractions
+
+A fraction describes parts of a whole. The denominator is the number on the bottom, and it tells us how many equal parts the whole has been split into. The numerator is the number on top, and it tells us how many of those parts we are counting. In the fraction 3/4, the whole is split into four equal parts and we are counting three of them.
+
+Fractions can only be added when they describe parts of the same size. That is why we need a common denominator. To add 1/4 and 2/3, we look for a number that both 4 and 3 divide into. The smallest is 12. We rewrite 1/4 as 3/12, because multiplying the denominator by 3 means we must also multiply the numerator by 3. We rewrite 2/3 as 8/12, because we multiply both the numerator and denominator by 4. Now both fractions are counted in twelfths, so we add the numerators only: 3/12 + 8/12 = 11/12.
+
+The denominator is never added. It names the size of the part, and the size does not change when we count more parts. A very common mistake is to write 1/4 + 2/3 = 3/7, adding the tops and the bottoms separately. A quick check shows this is wrong: 3/7 is smaller than 2/3, but adding a positive fraction to 2/3 must give something larger than 2/3. Whenever you add positive numbers, the answer must be bigger than each number you started with.
+
+Another common mistake is to change the denominators to 12 but leave the numerators alone, writing 1/4 + 2/3 = 3/12. If one quarter is turned into twelfths, the numerator must grow by the same factor as the denominator, otherwise the value of the fraction has changed. Subtraction works in the same way. To work out 5/6 - 1/3, rewrite 1/3 as 2/6 and subtract the numerators to get 3/6, which simplifies to 1/2.
+
+Part 2: Multiplying and dividing fractions
+
+To multiply fractions, multiply the numerators together and multiply the denominators together. So 2/3 x 3/5 = 6/15, which simplifies to 2/5. There is no need for a common denominator when multiplying. Multiplying by a fraction means taking a part of a quantity. When we work out 1/3 x 3/4, we are finding one third of three quarters, which is 1/4. This is smaller than 3/4.
+
+Many students believe that multiplication always makes a number bigger. That is true only when we multiply by a number greater than 1. If we multiply by a number between 0 and 1, we are taking a part of the original amount, so the result is smaller. For example, 12 x 0.4 is less than 12, because we are taking four tenths of 12.
+
+To divide by a fraction, we multiply by its reciprocal. The reciprocal of 1/3 is 3/1, which is 3. We keep the first fraction as it is, change the division sign to multiplication, and flip the second fraction, which is the one we are dividing by. For example, 2/5 divided by 1/3 becomes 2/5 x 3/1 = 6/5. A frequent error is to flip the first fraction instead of the second. Remember that it is always the divisor that gets flipped.
+
+Division by a number less than 1 makes the answer larger. Dividing 3 by 1/2 asks how many halves fit into 3 wholes, and the answer is 6. In the same way, 10 divided by 0.5 is 20. Many students think division always makes a number smaller, but this is only true when the divisor is greater than 1.
+
+Part 3: Decimals
+
+A decimal number uses place value to the right of the decimal point. The first place is tenths, the second is hundredths, and the third is thousandths. So 0.7 means seven tenths, and 0.65 means six tenths and five hundredths.
+
+To compare decimals, compare place by place, starting from the left, beginning with the tenths. 0.7 is greater than 0.65, because seven tenths is more than six tenths. The number of digits after the point does not decide the size of the number. A common mistake is to think that 0.65 is bigger than 0.7 because 65 is bigger than 7, which treats the digits as a whole number. A helpful trick is to write both numbers with the same number of decimal places, so that 0.7 becomes 0.70. Now it is clear that 70 hundredths is more than 65 hundredths.
+
+To multiply decimals, first multiply the numbers as if they were whole numbers. Then count the total number of decimal places in both numbers being multiplied, and put that many decimal places in the answer. For 0.4 x 0.3, we work out 4 x 3 = 12. There is one decimal place in 0.4 and one in 0.3, so there are two altogether, and the answer is 0.12. A good habit is to estimate first. Since both factors are less than 1, the product must be smaller than either of them, so 1.2 cannot be right.
+
+Part 4: Integers and the number line
+
+Integers are the whole numbers and their negatives: ... -3, -2, -1, 0, 1, 2, 3 ... On a number line, numbers to the right are larger and numbers to the left are smaller.
+
+When we add a positive number, we move to the right. When we add a negative number, we move to the left. So -4 + (-6) means starting at -4 and moving six steps further left, landing on -10. The sum of two negative numbers is negative. A common error is to say that two negatives make a positive when adding. The rule that two negatives make a positive applies only to multiplication and division, such as (-3) x (-2) = 6.
+
+Subtracting a negative number is the same as adding its opposite. For 9 - (-2), we change the subtraction of -2 into the addition of 2, giving 9 + 2 = 11. A helpful way to think about this is money. If you owe someone 2 rupees and that debt is taken away, you become 2 rupees richer. So taking away a negative makes the result larger. Another example is -6 - (-2), which becomes -6 + 2 = -4.
+
+Part 5: Order of operations
+
+When an expression contains several operations, we must follow an agreed order, or different people would get different answers. The order is remembered as BODMAS: Brackets, Orders (powers and roots), Division and Multiplication, Addition and Subtraction.
+
+Division and multiplication have equal priority and are done from left to right. Addition and subtraction also have equal priority and are done from left to right. For example, 6 + 4 x 2 is not 20. Multiplication comes before addition, so we calculate 4 x 2 = 8 first, and then 6 + 8 = 14. Similarly, 10 - 6 / 3 equals 10 - 2 = 8. The mistake of working strictly from left to right would give 4 / 3, which is incorrect. If we want the subtraction to happen first, we must use brackets, as in (10 - 6) / 3.
+
+Part 6: Introduction to algebra and like terms
+
+In algebra, letters stand for numbers. An expression such as 4p + 2q has two terms, 4p and 2q. The number in front of the letter is called the coefficient.
+
+Only like terms can be added or subtracted. Like terms have exactly the same letters raised to the same powers. So 4p + 2p = 6p, because four of something plus two of that same thing gives six of it. But 4p + 2q cannot be combined. If p stands for pens and q stands for quills, then four pens plus two quills is just four pens and two quills. A common mistake is to write 4p + 2q = 6pq, which joins unlike terms together. The expression 4p + 2q is already fully simplified.
+
+Adding a term to itself doubles it, so y + y = 2y. Multiplying a term by itself squares it, so y x y = y^2. Students often confuse these two, writing y + y = y^2. Test it with a number. If y = 5, then y + y = 10, but y^2 = 25.
+
+Part 7: Expanding brackets
+
+When a number or letter sits outside a bracket, it multiplies every term inside the bracket. This is called expanding. For 4(y + 5), we work out 4 x y = 4y and 4 x 5 = 20, so the result is 4y + 20. A frequent mistake is to multiply only the first term and write 4y + 5. Imagine four bags that each contain y apples and 5 mangoes. In total there are 4y apples and 20 mangoes.
+
+Signs need extra care. A minus sign outside a bracket changes the sign of every term inside. So -(y - 7) = -y + 7. Likewise, -3(m - 2) = -3m + 6, because -3 x -2 = +6. Look at 8 - 3(y - 2). We multiply the bracket first, as multiplication comes before subtraction: -3 x y = -3y and -3 x -2 = +6. The expression becomes 8 - 3y + 6, which simplifies to 14 - 3y.
+
+Part 8: Solving linear equations
+
+An equation says that two expressions are equal. It works like a balance scale, so whatever we do to one side we must also do to the other. To solve an equation, we undo the operations that have been applied to the unknown, using inverse operations. The inverse of addition is subtraction, and the inverse of multiplication is division.
+
+Consider 5y + 4 = 29. The 4 was added last, so we subtract 4 from both sides to get 5y = 25. Then y is multiplied by 5, so we divide both sides by 5 to get y = 5. We can always check the answer by substituting it back: 5 x 5 + 4 = 29, which is true.
+
+A common error is to move a number across the equals sign without changing its operation, for example turning y + 4 = 10 into y = 14. The correct step is to subtract 4 from both sides, giving y = 6. Another error is to undo multiplication by subtracting. For 5y = 20, we divide by 5 to get y = 4. Subtracting 5 would give 15, and substituting back shows that 5 x 15 is not 20.
+
+Part 9: Exponents
+
+An exponent, or power, tells us how many times to multiply a number by itself. So 3^4 means 3 x 3 x 3 x 3 = 81. It does not mean 3 x 4. Students sometimes read a power as base times exponent, and write 3^4 = 12, which is wrong. Similarly, 2^3 = 2 x 2 x 2 = 8, not 6.
+
+When we multiply powers of the same base, we add the exponents. For b^4 x b^2, we can write out four b's and then two more b's, which is six b's in total, so the answer is b^6. A frequent mistake is to multiply the exponents and write b^8. When dividing powers of the same base, we subtract the exponents.
+
+Any non-zero number raised to the power 0 equals 1. We can see why from the division rule. Dividing 9^3 by 9^3 gives 1, because any number divided by itself is 1. By the subtraction rule, it also gives 9^(3-3) = 9^0. So 9^0 must equal 1. It is not 0.
+
+Part 10: Percentages
+
+Percent means per hundred. To find a percentage change, we always compare the change with the original value. The formula is: percentage change = change divided by original, multiplied by 100. If a price rises from 40 to 50, the change is 10 and the original is 40, so the percentage increase is 10/40 x 100 = 25 percent. A common error is to divide by the new value, which would give 20 percent.
+
+A percentage increase followed by the same percentage decrease does not bring us back to the start. The second percentage is taken of a different amount. Suppose an item costs 200 rupees and its price rises by 20 percent. The increase is 40, so the new price is 240. If the price then falls by 20 percent, we take 20 percent of 240, which is 48. The final price is 192 rupees, not 200. In the same way, a 100 rupee item that rises by 10 percent and then falls by 10 percent ends at 99 rupees.
+
+Part 11: Ratio and sharing
+
+A ratio compares quantities. To share an amount in a given ratio, first add the parts of the ratio to find the total number of equal shares. Then divide the amount by that number to find the value of one share, and multiply to get each person's portion.
+
+Suppose 60 rupees is shared in the ratio 1:4. There are 1 + 4 = 5 shares in all. Each share is 60 / 5 = 12 rupees. So the first person gets 12 rupees and the second gets 4 x 12 = 48 rupees. Check that the two portions add up to 60. A common mistake is to say that the first person gets 1/4 of the total. In the ratio 1:4, the first part is 1/5 of the total, because there are five shares altogether. Another example: 50 rupees shared in the ratio 2:3 has 5 shares of 10 rupees each, so the smaller share is 20 rupees.
+
+Part 12: Algebraic identities
+
+An identity is a statement that is true for every value of the letters. The most important one at this level is the square of a sum: (a + b)^2 = a^2 + 2ab + b^2. The expression (a + b)^2 means (a + b) multiplied by (a + b). When we expand it, we get a x a + a x b + b x a + b x b, which gives a^2 + 2ab + b^2.
+
+The middle term, 2ab, is the one most easily forgotten. Many students write (a + b)^2 = a^2 + b^2, squaring each term separately. For example, (y + 5)^2 = y^2 + 10y + 25. We can test an identity by choosing a number. If y = 1, then (1 + 5)^2 = 36, and y^2 + 10y + 25 = 1 + 10 + 25 = 36. The incorrect version, y^2 + 25, would give 26, which does not match.
+
+Summary of key ideas
+
+Add fractions only after making the denominators the same, and add only the numerators. Multiplying by a number below 1 makes things smaller, and dividing by a number below 1 makes things larger. Compare decimals place by place from the tenths. Adding two negative numbers gives a negative number. Follow BODMAS for the order of operations. Only like terms can be combined. A number outside a bracket multiplies every term inside. In an equation, do the same inverse operation to both sides. An exponent counts repeated multiplication, and any non-zero number to the power 0 is 1. Percentage change is measured against the original value. To share in a ratio, add the parts first. And (a + b)^2 always has a middle term, 2ab.

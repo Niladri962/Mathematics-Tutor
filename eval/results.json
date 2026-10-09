@@ -1,0 +1,182 @@
+{
+  "diagnosis": {
+    "topic_known": {
+      "cases": 41,
+      "top1": 0.732,
+      "top3": 1.0,
+      "map@25": 0.862,
+      "misses": [
+        {
+          "question": "Q01",
+          "answer": "2/6",
+          "expected": "M02",
+          "got": "M01"
+        },
+        {
+          "question": "Q02",
+          "answer": "4/4",
+          "expected": "M02",
+          "got": "M01"
+        },
+        {
+          "question": "Q03",
+          "answer": "3/15",
+          "expected": "M01",
+          "got": "M02"
+        },
+        {
+          "question": "Q07",
+          "answer": "2/3",
+          "expected": "M05",
+          "got": "M06"
+        },
+        {
+          "question": "Q13",
+          "answer": "8",
+          "expected": "M09",
+          "got": "M10"
+        },
+        {
+          "question": "Q19",
+          "answer": "x^2",
+          "expected": "M13",
+          "got": "M12"
+        },
+        {
+          "question": "Q23",
+          "answer": "3x - 3",
+          "expected": "M11",
+          "got": "M15"
+        },
+        {
+          "question": "Q26",
+          "answer": "x = 10",
+          "expected": "M17",
+          "got": "M16"
+        },
+        {
+          "question": "Q27",
+          "answer": "6",
+          "expected": "M18",
+          "got": "M19"
+        },
+        {
+          "question": "Q30",
+          "answer": "Rs 100",
+          "expected": "M21",
+          "got": "M22"
+        },
+        {
+          "question": "Q31",
+          "answer": "20%",
+          "expected": "M22",
+          "got": "M21"
+        }
+      ]
+    },
+    "topic_unknown": {
+      "cases": 41,
+      "top1": 0.634,
+      "top3": 0.902,
+      "map@25": 0.766,
+      "misses": [
+        {
+          "question": "Q01",
+          "answer": "2/5",
+          "expected": "M01",
+          "got": "M02"
+        },
+        {
+          "question": "Q02",
+          "answer": "4/6",
+          "expected": "M01",
+          "got": "M02"
+        },
+        {
+          "question": "Q03",
+          "answer": "3/15",
+          "expected": "M01",
+          "got": "M02"
+        },
+        {
+          "question": "Q05",
+          "answer": "greater than 12",
+          "expected": "M03",
+          "got": "M08"
+        },
+        {
+          "question": "Q07",
+          "answer": "2/3",
+          "expected": "M05",
+          "got": "M06"
+        },
+        {
+          "question": "Q10",
+          "answer": "0.3",
+          "expected": "M07",
+          "got": "M08"
+        },
+        {
+          "question": "Q13",
+          "answer": "8",
+          "expected": "M09",
+          "got": "M10"
+        },
+        {
+          "question": "Q19",
+          "answer": "x^2",
+          "expected": "M13",
+          "got": "M12"
+        },
+        {
+          "question": "Q22",
+          "answer": "-x - 3",
+          "expected": "M15",
+          "got": "M14"
+        },
+        {
+          "question": "Q23",
+          "answer": "3 - 2x",
+          "expected": "M15",
+          "got": "M14"
+        },
+        {
+          "question": "Q23",
+          "answer": "3x - 3",
+          "expected": "M11",
+          "got": "M14"
+        },
+        {
+          "question": "Q25",
+          "answer": "x = 9",
+          "expected": "M17",
+          "got": "M16"
+        },
+        {
+          "question": "Q26",
+          "answer": "x = 10",
+          "expected": "M17",
+          "got": "M16"
+        },
+        {
+          "question": "Q27",
+          "answer": "6",
+          "expected": "M18",
+          "got": "M19"
+        },
+        {
+          "question": "Q30",
+          "answer": "Rs 100",
+          "expected": "M21",
+          "got": "M22"
+        }
+      ]
+    }
+  },
+  "ask_mode": {
+    "in_scope_answered": "10/10",
+    "top_source_correct": "10/10",
+    "out_of_scope_refused": "6/6"
+  },
+  "data": "seed"
+}
